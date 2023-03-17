@@ -1,5 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/k-doering-noaa/k-doering-noaa.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "jsonlite"]
+	path = jsonlite
+	url = https://github.com/jeroen/jsonlite
+	shallow = true
+	registered = true
+[submodule "SSMSE"]
+	path = SSMSE
+	url = https://github.com/nmfs-fish-tools/ssmse
+	shallow = true
+	registered = true
+[submodule "r4ss"]
+	path = r4ss
+	url = https://github.com/r4ss/r4ss
+	shallow = true
+	registered = true
