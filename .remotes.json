@@ -20,13 +20,6 @@
     "from": "SSMSE"
   },
   {
-    "package": "r4ss",
-    "url": "https://github.com/r4ss/r4ss",
-    "via": ["SSMSE", "ss3sim"],
-    "branch": "main",
-    "from": "SSMSE"
-  },
-  {
     "package": "rfishbase",
     "url": "https://github.com/ropensci/rfishbase",
     "via": ["FishLife"],
