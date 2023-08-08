@@ -2,18 +2,12 @@
 	path = .registry
 	url = https://github.com/k-doering-noaa/k-doering-noaa.r-universe.dev
 	branch = HEAD
-[submodule "jsonlite"]
-	path = jsonlite
-	url = https://github.com/jeroen/jsonlite
-[submodule "SSMSE"]
-	path = SSMSE
-	url = https://github.com/nmfs-fish-tools/ssmse
-[submodule "r4ss"]
-	path = r4ss
-	url = https://github.com/r4ss/r4ss
 [submodule "FishLife"]
 	path = FishLife
 	url = https://github.com/james-thorson/FishLife
+[submodule "SSMSE"]
+	path = SSMSE
+	url = https://github.com/nmfs-fish-tools/ssmse
 [submodule "TMBhelper"]
 	path = TMBhelper
 	url = https://github.com/kaskr/TMB_contrib_R
@@ -23,6 +17,12 @@
 	path = ThorsonUtilities
 	url = https://github.com/james-thorson/utilities
 	registered = false
+[submodule "jsonlite"]
+	path = jsonlite
+	url = https://github.com/jeroen/jsonlite
+[submodule "r4ss"]
+	path = r4ss
+	url = https://github.com/r4ss/r4ss
 [submodule "rfishbase"]
 	path = rfishbase
 	url = https://github.com/ropensci/rfishbase
