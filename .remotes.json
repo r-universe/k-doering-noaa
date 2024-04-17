@@ -1,5 +1,12 @@
 [
   {
+    "package": "assertive.base",
+    "url": "https://github.com/cran/assertive.base",
+    "via": ["SSMSE"],
+    "branch": "master",
+    "from": "SSMSE"
+  },
+  {
     "package": "assertive.properties",
     "url": "https://github.com/cran/assertive.properties",
     "via": ["SSMSE"],
